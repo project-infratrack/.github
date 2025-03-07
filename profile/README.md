@@ -38,7 +38,7 @@
   <li style="margin-bottom: 10px;">
     <strong style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #555;">Dulshanya De Silva</strong><br>
     <a href="https://github.com/[Team Member 2 GitHub Username]" style="text-decoration: none; color: #0366d6;">GitHub</a> | 
-    <a href="https://www.linkedin.com/in/[Team Member 2 LinkedIn Profile URL]" style="text-decoration: none; color: #0077b5;">LinkedIn</a>
+    <a href="www.linkedin.com/in/dulshanyasilva" style="text-decoration: none; color: #0077b5;">LinkedIn</a>
   </li>
   <li style="margin-bottom: 10px;">
     <strong style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #555;">Lakindu Muthsanda</strong><br>
